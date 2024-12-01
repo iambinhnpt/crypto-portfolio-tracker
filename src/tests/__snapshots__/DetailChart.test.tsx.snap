@@ -1,0 +1,273 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DetailChart matches the snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="p-4 bg-gray-50"
+  >
+    <div
+      class="container mx-auto py-3"
+    >
+      <div
+        class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root shadow-lg mx-auto css-1j74uew-MuiPaper-root-MuiCard-root"
+        style="--Paper-shadow: 0px 2px 1px -1px rgba(0,0,0,0.2),0px 1px 1px 0px rgba(0,0,0,0.14),0px 1px 3px 0px rgba(0,0,0,0.12);"
+      >
+        <div
+          class="MuiCardContent-root flex justify-center items-center text-center css-1lt5qva-MuiCardContent-root"
+        >
+          <div
+            class="MuiAvatar-root MuiAvatar-circular css-1kezxth-MuiAvatar-root"
+          >
+            <img
+              alt="Bitcoin"
+              class="MuiAvatar-img css-1su80sj-MuiAvatar-img"
+              src="https://example.com/bitcoin.png"
+            />
+          </div>
+          <div
+            class="MuiTypography-root MuiTypography-h5 text-center mb-4 css-16xl4zq-MuiTypography-root"
+          >
+            Bitcoin (BTC)
+          </div>
+        </div>
+        <div
+          class="MuiCardContent-root css-1lt5qva-MuiCardContent-root"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3 css-zow5z4-MuiGrid-root"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-lg-4 MuiGrid-grid-xl-3 css-v3c8vo-MuiGrid-root"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body1 font-semibold css-rizt0-MuiTypography-root"
+              >
+                Current Price:
+              </p>
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-7ctihp-MuiTypography-root"
+              >
+                $50,000
+              </p>
+            </div>
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-lg-4 MuiGrid-grid-xl-3 css-v3c8vo-MuiGrid-root"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body1 font-semibold css-rizt0-MuiTypography-root"
+              >
+                Market Cap:
+              </p>
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-7ctihp-MuiTypography-root"
+              >
+                $900,000,000
+              </p>
+            </div>
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-lg-4 MuiGrid-grid-xl-3 css-v3c8vo-MuiGrid-root"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body1 font-semibold css-rizt0-MuiTypography-root"
+              >
+                Total Volume:
+              </p>
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-7ctihp-MuiTypography-root"
+              >
+                $3,000,000
+              </p>
+            </div>
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-lg-4 MuiGrid-grid-xl-3 css-v3c8vo-MuiGrid-root"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body1 font-semibold css-rizt0-MuiTypography-root"
+              >
+                24h High:
+              </p>
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-7ctihp-MuiTypography-root"
+              >
+                $51,000
+              </p>
+            </div>
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-lg-4 MuiGrid-grid-xl-3 css-v3c8vo-MuiGrid-root"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body1 font-semibold css-rizt0-MuiTypography-root"
+              >
+                24h Low:
+              </p>
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-7ctihp-MuiTypography-root"
+              >
+                $49,000
+              </p>
+            </div>
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-lg-4 MuiGrid-grid-xl-3 css-v3c8vo-MuiGrid-root"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body1 font-semibold css-rizt0-MuiTypography-root"
+              >
+                Price Change (24h):
+              </p>
+              <p
+                class="MuiTypography-root MuiTypography-body2 text-green-600 css-7ctihp-MuiTypography-root"
+              >
+                2.00% ($1,000)
+              </p>
+            </div>
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-lg-4 MuiGrid-grid-xl-3 css-v3c8vo-MuiGrid-root"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body1 font-semibold css-rizt0-MuiTypography-root"
+              >
+                Market Rank:
+              </p>
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-7ctihp-MuiTypography-root"
+              >
+                1
+              </p>
+            </div>
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-lg-4 MuiGrid-grid-xl-3 css-v3c8vo-MuiGrid-root"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body1 font-semibold css-rizt0-MuiTypography-root"
+              >
+                Circulating Supply:
+              </p>
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-7ctihp-MuiTypography-root"
+              >
+                19,000,000
+              </p>
+            </div>
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-lg-4 MuiGrid-grid-xl-3 css-v3c8vo-MuiGrid-root"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body1 font-semibold css-rizt0-MuiTypography-root"
+              >
+                Max Supply:
+              </p>
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-7ctihp-MuiTypography-root"
+              >
+                21,000,000
+              </p>
+            </div>
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-lg-4 MuiGrid-grid-xl-3 css-v3c8vo-MuiGrid-root"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body1 font-semibold css-rizt0-MuiTypography-root"
+              >
+                All-Time High:
+              </p>
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-7ctihp-MuiTypography-root"
+              >
+                $65,000 (-23.00%) on 11/10/2021
+              </p>
+            </div>
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-lg-4 MuiGrid-grid-xl-3 css-v3c8vo-MuiGrid-root"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body1 font-semibold css-rizt0-MuiTypography-root"
+              >
+                All-Time Low:
+              </p>
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-7ctihp-MuiTypography-root"
+              >
+                $67.81 (73745.34%) on 7/6/2013
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root mt-6 shadow-lg css-1j74uew-MuiPaper-root-MuiCard-root"
+      style="--Paper-shadow: 0px 2px 1px -1px rgba(0,0,0,0.2),0px 1px 1px 0px rgba(0,0,0,0.14),0px 1px 3px 0px rgba(0,0,0,0.12);"
+    >
+      <div
+        class="MuiCardContent-root css-1lt5qva-MuiCardContent-root"
+      >
+        <div
+          class="flex flex-col lg:flex-row lg:items-center justify-between mb-4"
+        >
+          <h2
+            class="MuiTypography-root MuiTypography-h6 font-bold css-1miy0lu-MuiTypography-root"
+          >
+            Market Chart
+          </h2>
+          <div
+            class="MuiFormControl-root w-full lg:w-1/4 css-1iw3t7y-MuiFormControl-root"
+          >
+            <label
+              class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-sizeSmall MuiInputLabel-standard MuiFormLabel-colorPrimary MuiFormLabel-filled MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-sizeSmall MuiInputLabel-standard css-1m15yum-MuiFormLabel-root-MuiInputLabel-root"
+              data-shrink="true"
+              id="timeRangeLabel"
+            >
+              Select Time Range
+            </label>
+            <div
+              class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-colorPrimary MuiInputBase-formControl MuiInputBase-sizeSmall bg-white css-j218zi-MuiInputBase-root-MuiInput-root-MuiSelect-root"
+            >
+              <div
+                aria-controls=":r5:"
+                aria-expanded="false"
+                aria-haspopup="listbox"
+                aria-labelledby="timeRangeLabel timeRange"
+                class="MuiSelect-select MuiSelect-standard MuiInputBase-input MuiInput-input MuiInputBase-inputSizeSmall css-w4dpiq-MuiSelect-select-MuiInputBase-input-MuiInput-input"
+                id="timeRange"
+                role="combobox"
+                tabindex="0"
+              >
+                24 Hours
+              </div>
+              <input
+                aria-hidden="true"
+                aria-invalid="false"
+                class="MuiSelect-nativeInput css-j0riat-MuiSelect-nativeInput"
+                tabindex="-1"
+                value="1"
+              />
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiSelect-icon MuiSelect-iconStandard css-1gpuzre-MuiSvgIcon-root-MuiSelect-icon"
+                data-testid="ArrowDropDownIcon"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M7 10l5 5 5-5z"
+                />
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="mt-6"
+        >
+          <div
+            class="overflow-x-auto"
+          >
+            <div
+              data-testid="chart"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
